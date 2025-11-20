@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-BLUH BLUH BLUH
+You can trust my files. They're legit. 
 
 <!--
 **AndrewPickworth/andrewpickworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
