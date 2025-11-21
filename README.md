@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="GitHub contribution snake" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
 </p>
 
 ---
@@ -72,5 +72,8 @@
 
 <p align="center">
   <strong>Always building between the field and the cloud. - Thanks for stopping by.</strong>
-  <strong>Was this AI generated..? Probably..</strong>
+</p>
+
+<p align="center">
+Was this AI generated..? Probably..
 </p>
